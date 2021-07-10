@@ -2,7 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas
 
-* Strogonoff de frango
-* Cuscuz paulista
-* Pão de batata doce
+Aqui compartilharei com você receitas testadas e aprovadas. Bon appétit!
 
